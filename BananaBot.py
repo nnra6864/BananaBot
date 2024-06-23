@@ -34,7 +34,7 @@ def on_press(key):
 mouse_controller = mouse.Controller()
 
 recording = True
-print("Press X to record positions.\nPress 'Enter' to finish recording.")
+print("Press X to record positions.\nPress Enter to finish recording.")
 with keyboard.Listener(on_press=on_press) as listener:
     listener.join()
 
