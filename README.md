@@ -4,10 +4,10 @@ Bot for the [Banana](https://store.steampowered.com/app/2923300/Banana/) game.
 <img src="Banana.png" alt="Banana" title="Banana" width="256"/>
 
 # FAQ
-1. Q: Why is there a long pause between clicks?
-- A: Bot clicks every 3 minutes. According to [this](https://steamcommunity.com/app/2923300/discussions/0/6513974436470194075/#c6513974610099649135), there's no point in doing it more often than that.
-2. Q: Can this get me banned?
-- A: No, there's no anti cheat involved, and as far as the game is concerned, you are just performing regular clicks.
+1. Why is there a long pause between clicks?
+- Bot clicks every 3 minutes. According to [this](https://steamcommunity.com/app/2923300/discussions/0/6513974436470194075/#c6513974610099649135), there's no point in doing it more often than that.
+2. Can this get me banned?
+- No, there's no anti cheat involved, and as far as the game is concerned, you are just performing regular clicks.
 
 # Setup
 
